@@ -3,7 +3,10 @@ This was mostly made for users that are new to Linux, who still don't know how t
 
 ## Distros available
   - [x] [Ubuntu](ubuntu.com)
-  - [ ] [More to come! create an issue and ask for the next distro]()
+  - [ ] [More to come! create an issue and ask for the next distro](https://github.com/PedroVictorCoding/AutomationToolLinux/issues)
+
+## Should I?
+  * Make a UI for this project? [Make an issue if you think that I should](https://github.com/PedroVictorCoding/AutomationToolLinux/issues)
 
 ## How to use:
  * Install python3 in your machine. [Install here](python.org)
