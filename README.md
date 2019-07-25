@@ -9,8 +9,8 @@ This was mostly made for users that are new to Linux, who still don't know how t
   - [x] Google Chrome
   - [x] Nodejs
   - [x] Git
+  - [x] React-Native
   - [ ] Java JDK and JRE
-  - [ ] React-Native
   - [ ] Flutter
   - [ ] Angular
   - [ ] Spotify
