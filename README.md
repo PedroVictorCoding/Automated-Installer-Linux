@@ -1,9 +1,35 @@
 # AutomationToolLinux
 This was mostly made for users that are new to Linux, who still don't know how to install programs and libraries.
 
-## Distros available
+## Distros available:
   - [x] [Ubuntu](ubuntu.com)
   - [ ] [More to come! Create an issue and ask for the next distro](https://github.com/PedroVictorCoding/AutomationToolLinux/issues)
+
+## Software available to download:
+  - [x] Google Chrome
+  - [x] Nodejs
+  - [ ] Git
+  - [ ] Java JDK and JRE
+  - [ ] React-Native
+  - [ ] Flutter
+  - [ ] Angular
+  - [ ] Spotify
+  - [ ] Discord
+  - [ ] Opera
+  - [ ] Chromium
+  - [ ] Calibre - Books Manager
+  - [ ] Krita
+  - [ ] Razer Drivers and Tools
+  - [ ] Visual Studio
+  - [ ] Sublime Text
+  - [ ] Atom
+  - [ ] Vim (heck yaah)
+  - [ ] Git Kraken
+  - [ ] 
+  - [ ] 
+  - [ ] 
+  - [ ] 
+  
 
 ## Should I?
   * Make a UI for this project? [Make an issue if you think that I should](https://github.com/PedroVictorCoding/AutomationToolLinux/issues)
