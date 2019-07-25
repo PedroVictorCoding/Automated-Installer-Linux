@@ -8,7 +8,7 @@ This was mostly made for users that are new to Linux, who still don't know how t
 ## Software available to download:
   - [x] Google Chrome
   - [x] Nodejs
-  - [ ] Git
+  - [x] Git
   - [ ] Java JDK and JRE
   - [ ] React-Native
   - [ ] Flutter
