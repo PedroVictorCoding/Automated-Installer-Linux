@@ -2,8 +2,8 @@
 This was mostly made for users that are new to Linux, who still don't know how to install programs and libraries.
 
 ## Distros available
-  - [X][Ubuntu](ubuntu.com)
-  - [][More to come! create an issue and ask for the next distro]()
+  - [x] [Ubuntu](ubuntu.com)
+  - [ ] [More to come! create an issue and ask for the next distro]()
 
 ## How to use:
  * Install python3 in your machine. [Install here](python.org)
